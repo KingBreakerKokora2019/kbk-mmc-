@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<addon id="skin.estuary" version="X.X.X.X" name="KBK Multimedia Center" provider-name="KingBreakerKokora">
+	<requires>
+		<import addon="xbmc.gui" version="5.14.0"/>
+	</requires>
+	<extension point="xbmc.gui.skin" debugging="false">
+		<res width="1920" height="1080" aspect="16:9" default="true" folder="xml" />
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">KBK-MMC, improved, more light and more powerful than ever.</summary>
+		<description lang="en_GB">The traditional KBK-MMC reaches its eighth edition.[CR]Reformulated, very simple to use, with a new code that provides a lightweight and powerful skin.[CR]The KBK-MMC incorporates new features such as FLEXIBLE WIDGETS 2ND GENERATION which takes the main menu's level of customization to something never seen before.[CR]KBK-MMC, you've never seen a skin like this.</description>
+		<disclaimer lang="en_GB">KBK-MMC, improved, more light and more powerful than ever.</disclaimer>
+	<platform>all</platform>
+	<license>CC BY-SA 4.0, GNU GENERAL PUBLIC LICENSE Version 2.0</license>
+	<forum>https://forum.kodi.tv/</forum>
+	<source></source>
+	<assets>
+		<icon>resources/icon.png</icon>
+		<fanart>resources/fanart.jpg</fanart>
+		<screenshot>resources/screenshot-01.jpg</screenshot>
+		<screenshot>resources/screenshot-02.jpg</screenshot>
+		<screenshot>resources/screenshot-03.jpg</screenshot>
+		<screenshot>resources/screenshot-04.jpg</screenshot>
+		<screenshot>resources/screenshot-05.jpg</screenshot>
+		</assets>
+	</extension>
+</addon>
